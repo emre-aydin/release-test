@@ -4,11 +4,11 @@
 
     <groupId>tech.aydin</groupId>
     <artifactId>releaseTest</artifactId>
-    <version>1.1</version>
+    <version>1.2-SNAPSHOT</version>
 
     <scm>
         <developerConnection>scm:git:git@github.com:emre-aydin/release-test.git</developerConnection>
-      <tag>v1.1</tag>
+      <tag>HEAD</tag>
   </scm>
 
     <build>
